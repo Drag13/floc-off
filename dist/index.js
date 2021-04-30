@@ -1,0 +1,1 @@
+!function(){var e="interestCohort",r=Document.prototype;if(e in r){var t=Object.getOwnPropertyDescriptor(r,e);if(t&&t.writable){var n={writable:!1,value:new Proxy(r[e],{apply:function(){return Promise.reject()}}),configurable:!1,enumerable:!1};Object.defineProperty(r,e,n)}}}();

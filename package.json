@@ -1,0 +1,31 @@
+{
+  "name": "floc-off",
+  "version": "1.0.0",
+  "description": "FLoC-off a radical way to turn off FLoC for web sites and keep privacy",
+  "main": "./dist/index.js",
+  "files": [
+    "dist/"
+  ],
+  "scripts": {
+    "build": "webpack --mode production",
+    "webpack": "webpack"
+  },
+  "keywords": [
+    "privacy",
+    "website",
+    "floc",
+    "floc-off",
+    "off-floc",
+    "privacy-protection"
+  ],
+  "author": "Drag13",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.14.0",
+    "@babel/preset-env": "^7.14.0",
+    "babel-loader": "^8.2.2",
+    "clean-webpack-plugin": "^4.0.0-alpha.0",
+    "webpack": "^5.36.2",
+    "webpack-cli": "^4.6.0"
+  }
+}
