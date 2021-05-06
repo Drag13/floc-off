@@ -1,6 +1,6 @@
 # FLOC-OFF - One more way to turn off Federated Learning of Cohorts (FLoC)
 
-![https://img.shields.io/travis/drag13/floc-off](https://img.shields.io/travis/drag13/floc-off)
+![https://img.shields.io/travis/com/drag13/floc-off](https://img.shields.io/travis/com/drag13/floc-off)
 ![https://img.shields.io/bundlephobia/minzip/floc-off](https://img.shields.io/bundlephobia/minzip/floc-off)
 ![https://img.shields.io/npm/dm/floc-off](https://img.shields.io/npm/dm/floc-off)
 
