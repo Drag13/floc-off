@@ -1,6 +1,6 @@
 {
   "name": "floc-off",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "FLoC-off a radical way to turn off FLoC for web sites and keep privacy",
   "main": "./dist/index.js",
   "files": [
